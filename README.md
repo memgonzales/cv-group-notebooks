@@ -15,13 +15,13 @@ Term 2, AY 2020-2021 | 3 | kNN | Adapted from **Stanford University's <a href = 
 ## Built Using
 This project consists of Jupyter notebooks, with the following Python libraries and modules used:
 
-Libraries/Modules | Website | License
+Libraries/Modules | Description | License
 --- | ---| ---
-<code>random</code> | https://docs.python.org/3/library/random.html | Python Software Foundation License
-<code>pickle</code> | https://docs.python.org/3/library/pickle.html | Python Software Foundation License
-<code>os</code> | https://docs.python.org/3/library/os.html | Python Software Foundation License
-<code>numpy</code> | https://numpy.org/ | BSD 3-Clause "New" or "Revised" License
-<code>matplotlib</code> | https://matplotlib.org/ | Matplotlib License (BSD-Compatible)
+<a href = "https://docs.python.org/3/library/random.html"><code>random</code></a> | Provides functions for generating pseudo-random numbers with various common distributions | Python Software Foundation License
+<a href = "https://docs.python.org/3/library/pickle.html"><code>pickle</code></a> | Provides functions for converting Python objects to streams of bytes and back | Python Software Foundation License
+<a href = "https://docs.python.org/3/library/os.html"><code>os</code></a> | Provides miscellaneous operating system interfaces | Python Software Foundation License
+<a href = "https://numpy.org/"><code>numpy</code></a> | Provides a multidimensional array object, various derived objects, and an assortment of routines for fast operations on arrays	 | BSD 3-Clause "New" or "Revised" License
+<a href = "https://matplotlib.org/"><code>matplotlib</code></a> | Provides functions for creating static, animated, and interactive visualizations	 | Matplotlib License (BSD-Compatible)
 
 ## Authors and Attribution
 The activities were accomplished by:
