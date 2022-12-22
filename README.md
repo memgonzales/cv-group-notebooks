@@ -1,4 +1,9 @@
 # Computer Vision Group Notebooks
+
+![badge][badge-jupyter]
+![badge][badge-python]
+![badge][badge-numpy]
+
 This is a compilation of the activities and projects given to members of the AY 2020-2021 Computer Vision Group under Mr. Arren C. Antioquia of the Department of Software Technology, De La Salle University.
 
 ## Task
@@ -35,3 +40,8 @@ The dataset used in this project is:
 - **CIFAR-10** <br/>
   **Alex Krizhevsky** <br/>
   <a href = "https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf">*Learning Multiple Layers of Features from Tiny Images*</a> (2009)
+  
+[badge-jupyter]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white
+[badge-python]: https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white
+[badge-numpy]: https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white
+[badge-matplotlib]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=white
