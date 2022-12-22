@@ -29,9 +29,9 @@ The activities were accomplished by:
   mark_gonzales@dlsu.edu.ph <br/>
   gonzales.markedward@gmail.com
   
-The authors of the activities are credited in the Task section and in the notebooks themselves.
+The authors of the activities are credited in the [Task](https://github.com/memgonzales/cv-group-notebooks#task) section and in the notebooks themselves.
 
-The datasets used in this project are as follows:
+The dataset used in this project is:
 - **CIFAR-10** <br/>
   **Alex Krizhevsky** <br/>
   <a href = "https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf">*Learning Multiple Layers of Features from Tiny Images*</a> (2009)
