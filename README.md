@@ -1,5 +1,5 @@
 # Computer Vision Group Notebooks
-This is a compilation of the activities and projects given to members of the Computer Vision Group.
+This is a compilation of the activities and projects given to members of the AY 2020-2021 Computer Vision Group under Mr. Arren C. Antioquia of the Department of Software Technology, De La Salle University.
 
 ## Task
 The focus of the activities is to expose the members of the group to technologies and techniques related to the study of computer vision, a "field of artificial intelligence that enables computers and systems to derive meaningful information from digital images, videos, and other visual inputs" (<a href = "https://www.ibm.com/topics/computer-vision">IBM</a>, n.d.). 
