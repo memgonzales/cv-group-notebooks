@@ -13,9 +13,9 @@ The notebooks that I worked on for this project are as follows:
 
 Period | Notebook No. | Title | Author of the Activity
 --- | --- | --- | ---
-Term 2, AY 2020-2021 | 1 | Jupyter Notebook and Python | **Mr. Arren C. Antioquia** <br/> arren.antioquia@dlsu.edu.ph
-Term 2, AY 2020-2021 | 2 | Vector and Matrix Operations | **Mr. Arren C. Antioquia** <br/> arren.antioquia@dlsu.edu.ph
-Term 2, AY 2020-2021 | 3 | kNN | Adapted from **Stanford University's <a href = "http://cs231n.stanford.edu/">CS231n: Convolutional Neural Networks</a>**
+Term 2, AY 2020-2021 | [1](https://github.com/memgonzales/cv-group-notebooks/blob/master/1%20-%20Jupyter%20Notebook%20and%20Python/1%20-%20Jupyter%20Notebook%20and%20Python.ipynb) | Jupyter Notebook and Python | **Mr. Arren C. Antioquia** <br/> arren.antioquia@dlsu.edu.ph
+Term 2, AY 2020-2021 | [2](https://github.com/memgonzales/cv-group-notebooks/blob/master/2%20-%20Vector%20and%20Matrix%20Operations/2%20-%20Vector%20and%20Matrix%20Operations.ipynb) | Vector and Matrix Operations | **Mr. Arren C. Antioquia** <br/> arren.antioquia@dlsu.edu.ph
+Term 2, AY 2020-2021 | [3](https://github.com/memgonzales/cv-group-notebooks/tree/master/3%20-%20kNN) | <i>k</i>NN | Adapted from **Stanford University's <a href = "http://cs231n.stanford.edu/">CS231n: Convolutional Neural Networks</a>**
 
 ## Built Using
 This project consists of Jupyter notebooks, with the following Python libraries and modules used:
@@ -32,16 +32,14 @@ Libraries/Modules | Description | License
 
 ## Author and Attribution
 The activities were accomplished by:
+
 - **Mark Edward M. Gonzales** <br/>
   mark_gonzales@dlsu.edu.ph <br/>
   gonzales.markedward@gmail.com
   
-The authors of the activities are credited in the [Task](https://github.com/memgonzales/cv-group-notebooks#task) section and in the notebooks themselves.
+The authors of the activities are credited in the [Task](https://github.com/memgonzales/cv-group-notebooks#task) section and in the pertinent Jupyter notebooks.
 
-The dataset used in this project is:
-- **CIFAR-10** <br/>
-  **Alex Krizhevsky** <br/>
-  <a href = "https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf">*Learning Multiple Layers of Features from Tiny Images*</a> (2009)
+The dataset used in the <i>k</i>NN notebook is [**CIFAR-10**](https://github.com/memgonzales/cv-group-notebooks/tree/master/3%20-%20kNN/cifar-10), which is taken from Alex Krizhevsky's 2009 paper <a href = "https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf">*Learning Multiple Layers of Features from Tiny Images*</a>.
   
 [badge-jupyter]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white
 [badge-python]: https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white
