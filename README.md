@@ -4,12 +4,12 @@
 ![badge][badge-python]
 ![badge][badge-numpy]
 
-This is a compilation of the activities and projects given to members of the AY 2020-2021 Computer Vision Group under Mr. Arren C. Antioquia of the Department of Software Technology, De La Salle University.
+This repository is a compilation of the activities and projects given to members of the AY 2020-2021 Computer Vision Group under Mr. Arren C. Antioquia of the Department of Software Technology, De La Salle University.
 
 ## Task
-The focus of the activities is to expose the members of the group to technologies and techniques related to the study of computer vision, a "field of artificial intelligence that enables computers and systems to derive meaningful information from digital images, videos, and other visual inputs" (<a href = "https://www.ibm.com/topics/computer-vision">IBM</a>, n.d.). 
+The focus of the activities is to expose the members of the group to technologies and techniques related to the study of computer vision, "a field of artificial intelligence that enables computers and systems to derive meaningful information from digital images, videos, and other visual inputs" (<a href = "https://www.ibm.com/topics/computer-vision">IBM</a>, n.d.). 
 
-The notebooks that I worked on for this project are as follows:
+The activities that I worked on are as follows:
 
 Period | Notebook No. | Topic | Author of the Activity
 --- | --- | --- | ---
