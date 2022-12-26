@@ -11,11 +11,11 @@ The focus of the activities is to expose the members of the group to technologie
 
 The notebooks that I worked on for this project are as follows:
 
-Period | Notebook No. | Title | Author of the Activity
+Period | Notebook No. | Topic | Author of the Activity
 --- | --- | --- | ---
 Term 2, AY 2020-2021 | [1](https://github.com/memgonzales/cv-group-notebooks/blob/master/1%20-%20Jupyter%20Notebook%20and%20Python/1%20-%20Jupyter%20Notebook%20and%20Python.ipynb) | Jupyter Notebook and Python | **Mr. Arren C. Antioquia** <br/> arren.antioquia@dlsu.edu.ph
 Term 2, AY 2020-2021 | [2](https://github.com/memgonzales/cv-group-notebooks/blob/master/2%20-%20Vector%20and%20Matrix%20Operations/2%20-%20Vector%20and%20Matrix%20Operations.ipynb) | Vector and Matrix Operations | **Mr. Arren C. Antioquia** <br/> arren.antioquia@dlsu.edu.ph
-Term 2, AY 2020-2021 | [3](https://github.com/memgonzales/cv-group-notebooks/tree/master/3%20-%20kNN) | <i>k</i>NN | Adapted from **Stanford University's <a href = "http://cs231n.stanford.edu/">CS231n: Convolutional Neural Networks</a>**
+Term 2, AY 2020-2021 | [3](https://github.com/memgonzales/cv-group-notebooks/tree/master/3%20-%20kNN) | <i>k</i>-Nearest Neighbors | Adapted from **Stanford University's <a href = "http://cs231n.stanford.edu/">CS231n: Convolutional Neural Networks</a>**
 
 ## Built Using
 This project consists of Jupyter notebooks, with the following Python libraries and modules used:
