@@ -28,6 +28,8 @@ Libraries/Modules | Description | License
 <a href = "https://numpy.org/"><code>numpy</code></a> | Provides a multidimensional array object, various derived objects, and an assortment of routines for fast operations on arrays	 | BSD 3-Clause "New" or "Revised" License
 <a href = "https://matplotlib.org/"><code>matplotlib</code></a> | Provides functions for creating static, animated, and interactive visualizations	 | Matplotlib License (BSD-Compatible)
 
+*The descriptions are taken from their respective websites.*
+
 ## Author and Attribution
 The activities were accomplished by:
 - **Mark Edward M. Gonzales** <br/>
